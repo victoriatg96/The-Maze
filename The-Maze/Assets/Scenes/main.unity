@@ -3568,7 +3568,11 @@ SpriteRenderer:
   m_Size: {x: 10.24, y: 10.24}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
 --- !u!4 &1123434117
+=======
+--- !u!4 &1107704643
+>>>>>>> parent of 84ed198... Back button
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -3996,9 +4000,13 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
+<<<<<<< HEAD
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
 --- !u!4 &1303852756
+=======
+--- !u!4 &1123434117
+>>>>>>> parent of 84ed198... Back button
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -4110,10 +4118,13 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
 =======
 >>>>>>> Fonctionnalités
+=======
+>>>>>>> parent of 84ed198... Back button
 --- !u!4 &1326263257
 Transform:
   m_ObjectHideFlags: 0
